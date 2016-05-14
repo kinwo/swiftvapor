@@ -1,6 +1,6 @@
 # Trying out Vapor (Swift 3) 
 
-This Vapor install uses Vapor 0.8.1 with Swift 3 - DEVELOPMENT-SNAPSHOT-2016-05-03-a   
+This sample project uses Vapor 0.8.1 with Swift 3 - DEVELOPMENT-SNAPSHOT-2016-05-03-a   
 Successfully deployed to Heroku running at   
 http://swiftvapor.thelivingapps.com/hello
 
